@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+<name>Conduit Walls!</name>
+<author>Jdalt40</author>
+<targetVersion>0.19.0</targetVersion>
+<description>The name explains it, a conduit prebuilt into the wall, nothing more or less. Cost is the base cost of the wall + the conduit cost.</description>
+</ModMetaData>
